@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Transformation"
+title: "How it Changed"
 ---
 * Began as way to connect
 * Became more casual
